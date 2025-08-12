@@ -10,7 +10,8 @@ I'm a passionate and certified JS & Python developer, agile scrum master, UI arc
 😄 Pronouns: He/Him  
 🤞 One day I hope to... Go skydiving!  
 ⚡ Fun fact: my duolingo streak is over 700. I REALLY do love languages (and the cultures behind them).  
-📫 How to reach me:[<img src="./assets/linkedin_logo_v2.png" alt="linkedin logo" width="20%"/>](https://www.linkedin.com/in/jan-s-pospiech/) &nbsp; [<img src="./assets/email_logo.png" alt="email logo" width="7%"/>](mailto:jan.pospiech@posteo.de)
+📫 How to reach me:  
+[<img src="./assets/linkedin_logo_v2.png" alt="linkedin logo" width="4%"/>](https://www.linkedin.com/in/jan-s-pospiech/) &nbsp; [<img src="./assets/email_logo.png" alt="email logo" width="4%"/>](mailto:jan.pospiech@posteo.de)
   
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="emoji group of people"> <b>I love connecting with different people so feel free to say hi!</b>
