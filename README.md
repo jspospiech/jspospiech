@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./assets/header.jpg" alt="Hello, I'm Jan. I do web development!"/></p>
+<p align="center"><img width="50%" src="./assets/header.jpg" alt="Hello, I'm Jan. I do web development!"/></p>
   
 <p>
 I'm a passionate and certified JS & Python developer, agile scrum master, UI architect, media engineer and e-mobility enthusiast based in Hamburg (Germany).
