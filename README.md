@@ -14,8 +14,12 @@ In my spare time I love to read up on e-mobility and hunt for the best low carb 
 😄 Pronouns: He/Him  <br>
 🤞 One day I hope to... visit every continent!<br>
 ⚡ Fun fact: my duolingo streak is over 1000. I love languages no matter if you speak, interpret or compile them.<br>
-📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./assets/linkedin_logo_v2.png" alt="linkedin logo" width="5%" style="vertical-align: top;"/>](https://www.linkedin.com/in/jan-s-pospiech/) &nbsp;&nbsp;&nbsp; [<img src="./assets/email_logo.png" alt="email logo" width="4%" style="vertical-align: top;"/>](mailto:jan.pospiech@posteo.de)
-  
+<br>
+📫 How to reach me:<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./assets/linkedin_logo_v2.png" alt="linkedin logo" width="5%" style="vertical-align: top;"/>](https://www.linkedin.com/in/jan-s-pospiech/) &nbsp;&nbsp;&nbsp; [<img src="./assets/email_logo.png" alt="email logo" width="4%" style="vertical-align: top;"/>](mailto:jan.pospiech@posteo.de)
+<br>
+<br>
 <p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="emoji group of people"> <b>I love connecting with different people so feel free to say hi!</b>
+<b>I love connecting with different people so feel free to say hi!</b>
 </p>
