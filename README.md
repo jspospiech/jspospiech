@@ -17,7 +17,7 @@ In my spare time I love to read up on e-mobility and hunt for the best low carb 
 <br>
 📫 How to reach me:<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./assets/linkedin_logo_v2.png" alt="linkedin logo" width="5%" style="vertical-align: top;"/>](https://www.linkedin.com/in/jan-s-pospiech/) &nbsp;&nbsp;&nbsp; [<img src="./assets/email_logo.png" alt="email logo" width="4%" style="vertical-align: top;"/>](mailto:jan.pospiech@posteo.de)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./assets/linkedin_logo_v2.png" alt="linkedin logo" width="5%"/>](https://www.linkedin.com/in/jan-s-pospiech/) &nbsp;&nbsp;&nbsp; [<img src="./assets/email_logo.png" alt="email logo" width="4%"  style="vertical-align: top;"/>](mailto:jan.pospiech@posteo.de)
 <br>
 <br>
 <p>
